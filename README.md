@@ -1,0 +1,1 @@
+# arraysmetodosjs1.pdelsc
